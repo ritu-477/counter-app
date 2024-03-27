@@ -1,0 +1,113 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+ * {
+     margin: 0;
+     padding: 0;
+     text-decoration: none !important;
+     list-style-type: none !important;
+     box-sizing: border-box;
+ }
+
+ .advnce {
+     font-family: 'Inter', sans-serif;
+     font-size: 36px;
+     font-weight: 400;
+     line-height: 43.57px;
+     text-align: center;
+     color: #808080;
+     padding-bottom: 43px;
+ }
+
+ .counter-box {
+     padding: 57px 88px 34px 88px;
+     border-radius: 20px 20px 20px 20px;
+     background-color: #FFFFFF;
+     box-shadow: 0px 11px 44px -10px #00000040;
+     max-width: 460px;
+ }
+
+ .add-btn {
+     font-family: 'Inter', sans-serif;
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 19.36px;
+     text-align: center;
+     color: #128dff;
+     padding: 13px 35px;
+     border-radius: 4px 4px 4px 4px;
+     border: 1px solid #128dff;
+     background-color: white;
+ }
+
+ .add-btn:hover {
+     background-color: #128dff;
+     color: white;
+     transition: 1s;
+ }
+
+ .save-btn {
+     font-family: 'Inter', sans-serif;
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 19.36px;
+     text-align: center;
+     color: #128dff;
+     padding: 13px 35px;
+     border-radius: 4px 4px 4px 4px;
+     border: 1px solid #128dff;
+     background-color: white;
+ }
+
+ .save-btn:hover {
+     background-color: #128dff;
+     color: white;
+     transition: 1s;
+ }
+
+ .reset-btn {
+     font-family: 'Inter', sans-serif;
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 19.36px;
+     text-align: center;
+     color: #128dff;
+     padding: 13px 35px;
+     border-radius: 4px 4px 4px 4px;
+     border: 1px solid #128dff;
+     background-color: white;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 10px;
+ }
+
+ .counter {
+     font-family: 'Inter', sans-serif;
+     font-size: 36px;
+     font-weight: 400;
+     line-height: 43.57px;
+     text-align: center;
+     color: #000000;
+ }
+
+ .reset-btn:hover {
+     background-color: #128dff;
+     color: white;
+     transition: 1s;
+ }
+
+ .previous-value {
+     font-family: 'Inter', sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 19.36px;
+     text-align: center;
+     color: #808080;
+ }
+
+ .values {
+     font-family: 'Inter', sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 19.36px;
+     color: #000000;
+ }
